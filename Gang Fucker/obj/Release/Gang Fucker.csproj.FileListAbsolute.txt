@@ -1,0 +1,10 @@
+C:\Users\Lewis\3D Objects\DLLS\Gang Fucker\Gang Fucker\bin\Release\Gang Fucker.exe.config
+C:\Users\Lewis\3D Objects\DLLS\Gang Fucker\Gang Fucker\bin\Release\Gang Fucker.exe
+C:\Users\Lewis\3D Objects\DLLS\Gang Fucker\Gang Fucker\bin\Release\Gang Fucker.pdb
+C:\Users\Lewis\3D Objects\DLLS\Gang Fucker\Gang Fucker\obj\Release\Gang Fucker.csproj.AssemblyReference.cache
+C:\Users\Lewis\3D Objects\DLLS\Gang Fucker\Gang Fucker\obj\Release\Gang_Fucker.gangFucker.resources
+C:\Users\Lewis\3D Objects\DLLS\Gang Fucker\Gang Fucker\obj\Release\Gang_Fucker.Properties.Resources.resources
+C:\Users\Lewis\3D Objects\DLLS\Gang Fucker\Gang Fucker\obj\Release\Gang Fucker.csproj.GenerateResource.cache
+C:\Users\Lewis\3D Objects\DLLS\Gang Fucker\Gang Fucker\obj\Release\Gang Fucker.csproj.CoreCompileInputs.cache
+C:\Users\Lewis\3D Objects\DLLS\Gang Fucker\Gang Fucker\obj\Release\Gang Fucker.exe
+C:\Users\Lewis\3D Objects\DLLS\Gang Fucker\Gang Fucker\obj\Release\Gang Fucker.pdb
